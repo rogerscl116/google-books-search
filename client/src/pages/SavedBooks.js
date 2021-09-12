@@ -14,14 +14,6 @@ const SavedBooks = () => {
   const [removeBook] = useMutation(REMOVE_BOOK);
   const userData = data?.me || {};
 
-  if(!userData?.username) {
-    return (
-      <h4>
-        You need to be logged in to see this page. Use the navigation links above to sign up or log in!
-      </h4>
-    );
-  }
-
   // create function that accepts the book's mongo _id value as param and deletes the book from the database
   const handleDeleteBook = async (bookId) => {
     const token = Auth.loggedIn() ? Auth.getToken() : null;

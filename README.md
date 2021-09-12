@@ -10,9 +10,9 @@ Deployed application on heroku:
 
 ### Screenshots
 #### Home
-![Google Books Search Homepage]()
+![Google Books Search Homepage](./client/src/images/books-search-homepage.jpg)
 #### Saved Books
-![Google Books Search Saved Books]()
+![Google Books Search Saved Books](./client/src/images/books-search-savedbooks.jpg)
 
 ## Table of Contents
  * [Installation](#installation)
@@ -24,7 +24,7 @@ Deployed application on heroku:
 Clone this repository and enter `npm install` in the terminal to install the necessary dependencies.
    
 ## Usage
-
+Enter `npm run develop` from the root directory to start the development server on `http://localhost:3000/` and use GraphQL at `http://localhost:3001/graphql`.
 
 ## Contributing
 Charity Rogers
