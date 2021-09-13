@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "## License <a href=\"https://opensource.org/licenses/MIT\"><img src=\"https://img.shields.io/badge/License-MIT-yellow\" alt=\"MIT license badge\"/></a>",
   "main": "server/server.js",
   "engines": {
     "node": "14.17.0"
@@ -20,5 +20,13 @@
   },
   "dependencies": {
     "serve": "^12.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerscl116/google-books-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerscl116/google-books-search/issues"
+  },
+  "homepage": "https://github.com/rogerscl116/google-books-search#readme"
 }
