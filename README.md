@@ -6,7 +6,7 @@
 ## Description
 A Google Books API Search engine built using the MERN stack and refactored to be a GraphQL API with Apollo Server.
 
-Deployed application on heroku: 
+Deployed application on heroku: https://google-books-search826364.herokuapp.com/
 
 ### Screenshots
 #### Home
