@@ -4,7 +4,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT license badge"/></a>
 
 ## Description
-A Google Books API Search engine built using the MERN stack and refactored to use a GraphQL API with Apollo Server.
+A Google Books Search engine built with the MERN stack and refactored to use a GraphQL API with Apollo Server.
 
 Deployed application on heroku: https://google-books-search826364.herokuapp.com/
 
